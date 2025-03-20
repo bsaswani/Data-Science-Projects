@@ -16,7 +16,7 @@ using machine learning techniques. Each project applies **advanced NLP methods**
 - **Python**  
 - **NLTK, Scikit-Learn** – NLP & ML libraries  
 - **TF-IDF Vectorization** – Feature extraction method  
-- **Naïve Bayes, Logistic Regression, SVM** – Machine Learning models  
+- **Logistic Regression, SVM** – Machine Learning models  
 - **Matplotlib, Seaborn** – Data visualization  
 - **Jupyter Notebook**  
 
