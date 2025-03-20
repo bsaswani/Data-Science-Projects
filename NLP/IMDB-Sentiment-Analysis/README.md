@@ -43,7 +43,7 @@ Movie reviews influence audience decisions and box office performance. This proj
 
 🚀 **How to Use**  
 1️⃣ Navigate to the **IMDB-Sentiment-Analysis** folder.  
-2️⃣ Open the `imdb_sentiment_analysis.ipynb` file in **Jupyter Notebook**.  
+2️⃣ Open the `IMDB Movie Review Sentiment Analysis.ipynb` file in **Jupyter Notebook**.  
 3️⃣ Run the notebook to train models and classify reviews.  
 
 📌 **Business & Industry Impact**  
